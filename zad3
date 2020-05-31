@@ -1,0 +1,4 @@
+#!/bin/bash
+
+X=PATH
+echo $X
